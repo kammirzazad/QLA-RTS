@@ -1,0 +1,2644 @@
+{
+    "actors": [
+        {
+            "host": "h99", 
+            "name": "a99", 
+            "totalWeights": [
+                {
+                    "source": "i3", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.015
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.0
+                }
+            ], 
+            "ts": "32.584ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h98", 
+            "name": "a98", 
+            "ts": "365.223ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h95", 
+            "name": "a95", 
+            "ts": "15.951ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h94", 
+            "name": "a94", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.004
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.004
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.009
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.04
+                }
+            ], 
+            "ts": "396.373ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h97", 
+            "name": "a97", 
+            "ts": "307.052ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h96", 
+            "name": "a96", 
+            "ts": "159.752ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h91", 
+            "name": "a91", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.009
+                }
+            ], 
+            "ts": "352.138ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h90", 
+            "name": "a90", 
+            "ts": "76.815ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h93", 
+            "name": "a93", 
+            "ts": "123.365ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h92", 
+            "name": "a92", 
+            "ts": "218.414ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h79", 
+            "name": "a79", 
+            "ts": "57.688ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h78", 
+            "name": "a78", 
+            "ts": "292.167ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h77", 
+            "name": "a77", 
+            "ts": "350.562ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h76", 
+            "name": "a76", 
+            "ts": "116.105ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h75", 
+            "name": "a75", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.003
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.002
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.007
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.13
+                }
+            ], 
+            "ts": "397.978ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h74", 
+            "name": "a74", 
+            "ts": "14.74ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h73", 
+            "name": "a73", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h72", 
+            "name": "a72", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.066
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.006
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.741
+                }
+            ], 
+            "ts": "290.959ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h71", 
+            "name": "a71", 
+            "ts": "92.347ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h70", 
+            "name": "a70", 
+            "ts": "139.591ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h82", 
+            "name": "a82", 
+            "ts": "76.575ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h83", 
+            "name": "a83", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h80", 
+            "name": "a80", 
+            "ts": "145.351ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h81", 
+            "name": "a81", 
+            "ts": "380.797ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h86", 
+            "name": "a86", 
+            "ts": "131.013ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h87", 
+            "name": "a87", 
+            "ts": "280.176ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h84", 
+            "name": "a84", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.006
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.007
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.002
+                }
+            ], 
+            "ts": "397.155ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h85", 
+            "name": "a85", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h88", 
+            "name": "a88", 
+            "ts": "97.417ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h89", 
+            "name": "a89", 
+            "ts": "351.135ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h68", 
+            "name": "a68", 
+            "ts": "314.881ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h69", 
+            "name": "a69", 
+            "ts": "327.376ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h64", 
+            "name": "a64", 
+            "ts": "366.898ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h65", 
+            "name": "a65", 
+            "ts": "174.751ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h66", 
+            "name": "a66", 
+            "ts": "237.215ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h67", 
+            "name": "a67", 
+            "ts": "204.157ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h60", 
+            "name": "a60", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h61", 
+            "name": "a61", 
+            "ts": "309.708ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h62", 
+            "name": "a62", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.007
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.008
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.003
+                }
+            ], 
+            "ts": "411.418ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h63", 
+            "name": "a63", 
+            "ts": "30.325ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h51", 
+            "name": "a51", 
+            "ts": "366.155ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h50", 
+            "name": "a50", 
+            "ts": "381.2ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h53", 
+            "name": "a53", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.003
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.004
+                }
+            ], 
+            "ts": "382.383ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h52", 
+            "name": "a52", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h55", 
+            "name": "a55", 
+            "ts": "189.303ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h54", 
+            "name": "a54", 
+            "ts": "337.107ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h57", 
+            "name": "a57", 
+            "ts": "76.243ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h56", 
+            "name": "a56", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.0
+                }
+            ], 
+            "ts": "311.885ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h59", 
+            "name": "a59", 
+            "ts": "123.265ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h58", 
+            "name": "a58", 
+            "ts": "107.588ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h33", 
+            "name": "a33", 
+            "ts": "86.89ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h32", 
+            "name": "a32", 
+            "ts": "307.525ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h31", 
+            "name": "a31", 
+            "ts": "335.95ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h30", 
+            "name": "a30", 
+            "ts": "59.659ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h37", 
+            "name": "a37", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.013
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.007
+                }
+            ], 
+            "ts": "351.784ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h36", 
+            "name": "a36", 
+            "ts": "19.732ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h35", 
+            "name": "a35", 
+            "ts": "297.14ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h34", 
+            "name": "a34", 
+            "ts": "322.767ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h39", 
+            "name": "a39", 
+            "ts": "350.46ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h38", 
+            "name": "a38", 
+            "ts": "321.345ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h46", 
+            "name": "a46", 
+            "ts": "118.563ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h47", 
+            "name": "a47", 
+            "ts": "162.613ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h44", 
+            "name": "a44", 
+            "ts": "277.46ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h45", 
+            "name": "a45", 
+            "ts": "45.768ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h42", 
+            "name": "a42", 
+            "ts": "60.793ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h43", 
+            "name": "a43", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.003
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.001
+                }
+            ], 
+            "ts": "381.093ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h40", 
+            "name": "a40", 
+            "ts": "233.479ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h41", 
+            "name": "a41", 
+            "ts": "43.215ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h48", 
+            "name": "a48", 
+            "ts": "101.374ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h49", 
+            "name": "a49", 
+            "ts": "292.177ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h20", 
+            "name": "a20", 
+            "totalWeights": [
+                {
+                    "source": "i3", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.006
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.016
+                }
+            ], 
+            "ts": "91.808ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h21", 
+            "name": "a21", 
+            "ts": "76.595ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h22", 
+            "name": "a22", 
+            "ts": "365.865ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h23", 
+            "name": "a23", 
+            "ts": "39.515ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h24", 
+            "name": "a24", 
+            "ts": "72.365ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h25", 
+            "name": "a25", 
+            "ts": "104.152ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h26", 
+            "name": "a26", 
+            "totalWeights": [
+                {
+                    "source": "i0", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.0
+                }
+            ], 
+            "ts": "172.337ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h27", 
+            "name": "a27", 
+            "ts": "204.074ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h28", 
+            "name": "a28", 
+            "ts": "298.284ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h29", 
+            "name": "a29", 
+            "ts": "396.261ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h15", 
+            "name": "a15", 
+            "ts": "28.864ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h14", 
+            "name": "a14", 
+            "ts": "208.617ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h17", 
+            "name": "a17", 
+            "totalWeights": [
+                {
+                    "source": "i1", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i0", 
+                    "weight": 0.001
+                }, 
+                {
+                    "source": "i3", 
+                    "weight": 0.011
+                }, 
+                {
+                    "source": "i2", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i5", 
+                    "weight": 0.0
+                }, 
+                {
+                    "source": "i4", 
+                    "weight": 0.015
+                }
+            ], 
+            "ts": "366.226ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h16", 
+            "name": "a16", 
+            "ts": "190.082ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h11", 
+            "name": "a11", 
+            "ts": "280.26ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h10", 
+            "name": "a10", 
+            "ts": "157.185ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h13", 
+            "name": "a13", 
+            "ts": "381.916ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h12", 
+            "name": "a12", 
+            "ts": "265.781ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h19", 
+            "name": "a19", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h18", 
+            "name": "a18", 
+            "ts": "281.526ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h1", 
+            "name": "a1", 
+            "ts": "263.178ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h0", 
+            "name": "a0", 
+            "ts": "282.83ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h3", 
+            "name": "a3", 
+            "ts": "249.823ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h2", 
+            "name": "a2", 
+            "ts": "248.246ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h5", 
+            "name": "a5", 
+            "ts": "111.552ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h4", 
+            "name": "a4", 
+            "ts": "234.162ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h7", 
+            "name": "a7", 
+            "ts": "87.374ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h6", 
+            "name": "a6", 
+            "ts": "264.824ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h9", 
+            "name": "a9", 
+            "ts": "138.431ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h8", 
+            "name": "a8", 
+            "ts": "218.588ms", 
+            "wcet": "10.0ms"
+        }
+    ], 
+    "channels": [
+        {
+            "source": "a20", 
+            "weight": 0.351
+        }, 
+        {
+            "source": "a17", 
+            "weight": 0.186
+        }, 
+        {
+            "source": "a37", 
+            "weight": 0.215
+        }, 
+        {
+            "source": "a26", 
+            "weight": 0.896
+        }, 
+        {
+            "source": "a84", 
+            "weight": 0.983
+        }, 
+        {
+            "source": "a75", 
+            "weight": 0.801
+        }, 
+        {
+            "source": "a72", 
+            "weight": 0.265
+        }, 
+        {
+            "source": "a62", 
+            "weight": 0.957
+        }, 
+        {
+            "source": "a53", 
+            "weight": 0.657
+        }, 
+        {
+            "source": "a99", 
+            "weight": 0.509
+        }, 
+        {
+            "source": "a43", 
+            "weight": 0.987
+        }, 
+        {
+            "source": "a56", 
+            "weight": 0.96
+        }, 
+        {
+            "source": "a94", 
+            "weight": 0.784
+        }, 
+        {
+            "source": "a91", 
+            "weight": 0.584
+        }, 
+        {
+            "source": "i1", 
+            "target": "a83", 
+            "weight": 0.572
+        }, 
+        {
+            "source": "i2", 
+            "target": "a85", 
+            "weight": 0.425
+        }, 
+        {
+            "source": "i0", 
+            "target": "a60", 
+            "weight": 0.655
+        }, 
+        {
+            "source": "i5", 
+            "target": "a73", 
+            "weight": 0.784
+        }, 
+        {
+            "source": "i4", 
+            "target": "a19", 
+            "weight": 0.808
+        }, 
+        {
+            "source": "i3", 
+            "target": "a52", 
+            "weight": 0.496
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "472.358ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a99", 
+            "target": "a15", 
+            "weight": 0.026
+        }, 
+        {
+            "dp": 0.963, 
+            "dprime": "5.574ms", 
+            "mem": 1, 
+            "source": "a98", 
+            "target": "a81", 
+            "weight": 0.142
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "110.855ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a98", 
+            "target": "a19", 
+            "weight": 0.035
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "355.249ms", 
+            "mem": 1, 
+            "source": "a95", 
+            "target": "a50", 
+            "weight": 0.129
+        }, 
+        {
+            "dp": 0.961, 
+            "dprime": "6.633ms", 
+            "mem": 1, 
+            "source": "a95", 
+            "target": "a99", 
+            "weight": 0.169
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "266.216ms", 
+            "mem": 1, 
+            "source": "a95", 
+            "target": "a78", 
+            "weight": 0.504
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "283.862ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a94", 
+            "target": "a67", 
+            "weight": 0.024
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "285.132ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a97", 
+            "target": "a76", 
+            "weight": 0.062
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "49.175ms", 
+            "mem": 1, 
+            "source": "a97", 
+            "target": "a17", 
+            "weight": 0.344
+        }, 
+        {
+            "dp": 0.686, 
+            "dprime": "4.293ms", 
+            "mem": 1, 
+            "source": "a97", 
+            "target": "a38", 
+            "weight": 0.36
+        }, 
+        {
+            "dp": 0.715, 
+            "dprime": "4.999ms", 
+            "mem": 1, 
+            "source": "a96", 
+            "target": "a65", 
+            "weight": 0.697
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "183.599ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a91", 
+            "target": "a30", 
+            "weight": 0.015
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "44.199ms", 
+            "mem": 1, 
+            "source": "a90", 
+            "target": "a86", 
+            "weight": 0.769
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "26.387ms", 
+            "mem": 1, 
+            "source": "a93", 
+            "target": "a96", 
+            "weight": 0.373
+        }, 
+        {
+            "dp": 0.916, 
+            "dprime": "5.065ms", 
+            "mem": 1, 
+            "source": "a92", 
+            "target": "a40", 
+            "weight": 0.977
+        }, 
+        {
+            "dp": 0.76, 
+            "dprime": "4.678ms", 
+            "mem": 1, 
+            "source": "a79", 
+            "target": "a24", 
+            "weight": 0.859
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "242.02ms", 
+            "mem": 1, 
+            "source": "a79", 
+            "target": "a61", 
+            "weight": 0.168
+        }, 
+        {
+            "dp": 0.823, 
+            "dprime": "5.358ms", 
+            "mem": 1, 
+            "source": "a78", 
+            "target": "a32", 
+            "weight": 0.129
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "20.638ms", 
+            "mem": 1, 
+            "source": "a77", 
+            "target": "a50", 
+            "weight": 0.878
+        }, 
+        {
+            "dp": 0.74, 
+            "dprime": "4.661ms", 
+            "mem": 1, 
+            "source": "a77", 
+            "target": "a98", 
+            "weight": 0.501
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "168.731ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a77", 
+            "target": "a41", 
+            "weight": 0.03
+        }, 
+        {
+            "dp": 0.848, 
+            "dprime": "4.908ms", 
+            "mem": 1, 
+            "source": "a76", 
+            "target": "a86", 
+            "weight": 0.976
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "430.238ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a75", 
+            "target": "a91", 
+            "weight": 0.031
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "78.1ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a75", 
+            "target": "a73", 
+            "weight": 0.091
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "78.1ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a75", 
+            "target": "a85", 
+            "weight": 0.026
+        }, 
+        {
+            "dp": 0.658, 
+            "dprime": "4.125ms", 
+            "mem": 1, 
+            "source": "a74", 
+            "target": "a15", 
+            "weight": 0.944
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "266.22ms", 
+            "mem": 1, 
+            "source": "a74", 
+            "target": "a72", 
+            "weight": 0.955
+        }, 
+        {
+            "dp": 0.951, 
+            "dprime": "5.585ms", 
+            "mem": 1, 
+            "source": "a74", 
+            "target": "a63", 
+            "weight": 0.552
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "535.737ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a73", 
+            "target": "a30", 
+            "weight": 0.067
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "577.452ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a73", 
+            "target": "a48", 
+            "weight": 0.091
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "374.421ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a72", 
+            "target": "a55", 
+            "weight": 0.049
+        }, 
+        {
+            "dp": 0.816, 
+            "dprime": "5.24ms", 
+            "mem": 1, 
+            "source": "a71", 
+            "target": "a58", 
+            "weight": 0.522
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "200.971ms", 
+            "mem": 1, 
+            "source": "a70", 
+            "target": "a77", 
+            "weight": 0.175
+        }, 
+        {
+            "dp": 0.974, 
+            "dprime": "7.594ms", 
+            "mem": 1, 
+            "source": "a70", 
+            "target": "a10", 
+            "weight": 0.317
+        }, 
+        {
+            "dp": 0.982, 
+            "dprime": "10.842ms", 
+            "mem": 1, 
+            "source": "a82", 
+            "target": "a88", 
+            "weight": 0.73
+        }, 
+        {
+            "dp": 0.874, 
+            "dprime": "5.772ms", 
+            "mem": 1, 
+            "source": "a82", 
+            "target": "a71", 
+            "weight": 0.862
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "280.959ms", 
+            "mem": 1, 
+            "source": "a83", 
+            "target": "a72", 
+            "weight": 0.115
+        }, 
+        {
+            "dp": 0.943, 
+            "dprime": "7.262ms", 
+            "mem": 1, 
+            "source": "a80", 
+            "target": "a47", 
+            "weight": 0.702
+        }, 
+        {
+            "dp": 0.713, 
+            "dprime": "4.401ms", 
+            "mem": 1, 
+            "source": "a80", 
+            "target": "a96", 
+            "weight": 0.245
+        }, 
+        {
+            "dp": 0.845, 
+            "dprime": "5.576ms", 
+            "mem": 1, 
+            "source": "a81", 
+            "target": "a94", 
+            "weight": 0.756
+        }, 
+        {
+            "dp": 0.94, 
+            "dprime": "7.181ms", 
+            "mem": 1, 
+            "source": "a81", 
+            "target": "a75", 
+            "weight": 0.329
+        }, 
+        {
+            "dp": 0.871, 
+            "dprime": "4.338ms", 
+            "mem": 1, 
+            "source": "a86", 
+            "target": "a80", 
+            "weight": 0.986
+        }, 
+        {
+            "dp": 0.975, 
+            "dprime": "6.964ms", 
+            "mem": 1, 
+            "source": "a87", 
+            "target": "a35", 
+            "weight": 0.721
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "78.924ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a84", 
+            "target": "a52", 
+            "weight": 0.035
+        }, 
+        {
+            "dp": 0.927, 
+            "dprime": "5.951ms", 
+            "mem": 1, 
+            "source": "a85", 
+            "target": "a95", 
+            "weight": 0.211
+        }, 
+        {
+            "dp": 0.986, 
+            "dprime": "11.146ms", 
+            "mem": 1, 
+            "source": "a88", 
+            "target": "a46", 
+            "weight": 0.848
+        }, 
+        {
+            "dp": 0.739, 
+            "dprime": "5.091ms", 
+            "mem": 1, 
+            "source": "a89", 
+            "target": "a17", 
+            "weight": 0.94
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "182.63ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a89", 
+            "target": "a79", 
+            "weight": 0.076
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "277.303ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a68", 
+            "target": "a76", 
+            "weight": 0.069
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "40.342ms", 
+            "mem": 1, 
+            "source": "a68", 
+            "target": "a98", 
+            "weight": 0.827
+        }, 
+        {
+            "dp": 0.986, 
+            "dprime": "13.76ms", 
+            "mem": 1, 
+            "source": "a69", 
+            "target": "a89", 
+            "weight": 0.579
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "367.116ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a69", 
+            "target": "a92", 
+            "weight": 0.068
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "19.475ms", 
+            "mem": 1, 
+            "source": "a64", 
+            "target": "a94", 
+            "weight": 0.265
+        }, 
+        {
+            "dp": 0.772, 
+            "dprime": "5.331ms", 
+            "mem": 1, 
+            "source": "a65", 
+            "target": "a16", 
+            "weight": 0.646
+        }, 
+        {
+            "dp": 0.817, 
+            "dprime": "4.552ms", 
+            "mem": 1, 
+            "source": "a65", 
+            "target": "a55", 
+            "weight": 0.516
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "43.745ms", 
+            "mem": 1, 
+            "source": "a66", 
+            "target": "a72", 
+            "weight": 0.671
+        }, 
+        {
+            "dp": 0.8, 
+            "dprime": "4.256ms", 
+            "mem": 1, 
+            "source": "a67", 
+            "target": "a92", 
+            "weight": 0.799
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "495.81ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a60", 
+            "target": "a36", 
+            "weight": 0.062
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "577.452ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a60", 
+            "target": "a48", 
+            "weight": 0.042
+        }, 
+        {
+            "dp": 0.946, 
+            "dprime": "7.668ms", 
+            "mem": 1, 
+            "source": "a61", 
+            "target": "a69", 
+            "weight": 0.2
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "415.223ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a62", 
+            "target": "a77", 
+            "weight": 0.06
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "162.078ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a62", 
+            "target": "a88", 
+            "weight": 0.018
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "57.092ms", 
+            "mem": 1, 
+            "source": "a63", 
+            "target": "a88", 
+            "weight": 0.348
+        }, 
+        {
+            "dp": 0.873, 
+            "dprime": "5.443ms", 
+            "mem": 1, 
+            "source": "a63", 
+            "target": "a45", 
+            "weight": 0.535
+        }, 
+        {
+            "dp": 0.945, 
+            "dprime": "6.228ms", 
+            "mem": 1, 
+            "source": "a51", 
+            "target": "a53", 
+            "weight": 0.489
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "299.226ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a51", 
+            "target": "a55", 
+            "weight": 0.044
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "233.288ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a51", 
+            "target": "a93", 
+            "weight": 0.013
+        }, 
+        {
+            "dp": 0.918, 
+            "dprime": "5.061ms", 
+            "mem": 1, 
+            "source": "a50", 
+            "target": "a29", 
+            "weight": 0.828
+        }, 
+        {
+            "dp": 0.888, 
+            "dprime": "5.954ms", 
+            "mem": 1, 
+            "source": "a50", 
+            "target": "a84", 
+            "weight": 0.577
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "385.873ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a53", 
+            "target": "a49", 
+            "weight": 0.086
+        }, 
+        {
+            "dp": 0.982, 
+            "dprime": "9.732ms", 
+            "mem": 1, 
+            "source": "a52", 
+            "target": "a36", 
+            "weight": 0.775
+        }, 
+        {
+            "dp": 0.969, 
+            "dprime": "9.314ms", 
+            "mem": 1, 
+            "source": "a55", 
+            "target": "a14", 
+            "weight": 0.915
+        }, 
+        {
+            "dp": 0.916, 
+            "dprime": "4.771ms", 
+            "mem": 1, 
+            "source": "a55", 
+            "target": "a27", 
+            "weight": 0.922
+        }, 
+        {
+            "dp": 0.637, 
+            "dprime": "4.677ms", 
+            "mem": 1, 
+            "source": "a54", 
+            "target": "a37", 
+            "weight": 0.29
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "298.723ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a54", 
+            "target": "a96", 
+            "weight": 0.067
+        }, 
+        {
+            "dp": 0.889, 
+            "dprime": "5.031ms", 
+            "mem": 1, 
+            "source": "a54", 
+            "target": "a91", 
+            "weight": 0.877
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "37.122ms", 
+            "mem": 1, 
+            "source": "a57", 
+            "target": "a93", 
+            "weight": 0.479
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "164.193ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a56", 
+            "target": "a83", 
+            "weight": 0.018
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "181.616ms", 
+            "mem": 1, 
+            "source": "a59", 
+            "target": "a68", 
+            "weight": 0.372
+        }, 
+        {
+            "dp": 0.897, 
+            "dprime": "6.326ms", 
+            "mem": 1, 
+            "source": "a59", 
+            "target": "a70", 
+            "weight": 0.574
+        }, 
+        {
+            "dp": 0.765, 
+            "dprime": "5.777ms", 
+            "mem": 1, 
+            "source": "a58", 
+            "target": "a93", 
+            "weight": 0.683
+        }, 
+        {
+            "dp": 0.803, 
+            "dprime": "4.484ms", 
+            "mem": 1, 
+            "source": "a33", 
+            "target": "a48", 
+            "weight": 0.358
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "313.904ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a32", 
+            "target": "a80", 
+            "weight": 0.053
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "63.272ms", 
+            "mem": 1, 
+            "source": "a32", 
+            "target": "a81", 
+            "weight": 0.85
+        }, 
+        {
+            "dp": 0.856, 
+            "dprime": "5.242ms", 
+            "mem": 1, 
+            "source": "a32", 
+            "target": "a34", 
+            "weight": 0.361
+        }, 
+        {
+            "dp": 0.785, 
+            "dprime": "4.612ms", 
+            "mem": 1, 
+            "source": "a31", 
+            "target": "a77", 
+            "weight": 0.409
+        }, 
+        {
+            "dp": 0.713, 
+            "dprime": "4.51ms", 
+            "mem": 1, 
+            "source": "a31", 
+            "target": "a39", 
+            "weight": 0.84
+        }, 
+        {
+            "dp": 0.901, 
+            "dprime": "5.185ms", 
+            "mem": 1, 
+            "source": "a31", 
+            "target": "a89", 
+            "weight": 0.531
+        }, 
+        {
+            "dp": 0.872, 
+            "dprime": "5.834ms", 
+            "mem": 1, 
+            "source": "a31", 
+            "target": "a37", 
+            "weight": 0.697
+        }, 
+        {
+            "dp": 0.856, 
+            "dprime": "6.937ms", 
+            "mem": 1, 
+            "source": "a30", 
+            "target": "a21", 
+            "weight": 0.443
+        }, 
+        {
+            "dp": 0.95, 
+            "dprime": "6.584ms", 
+            "mem": 1, 
+            "source": "a30", 
+            "target": "a57", 
+            "weight": 0.853
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "231.882ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a37", 
+            "target": "a58", 
+            "weight": 0.096
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "167.51ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a37", 
+            "target": "a41", 
+            "weight": 0.027
+        }, 
+        {
+            "dp": 0.986, 
+            "dprime": "9.783ms", 
+            "mem": 1, 
+            "source": "a36", 
+            "target": "a23", 
+            "weight": 0.182
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "270.746ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a35", 
+            "target": "a20", 
+            "weight": 0.082
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "90.838ms", 
+            "mem": 1, 
+            "source": "a35", 
+            "target": "a75", 
+            "weight": 0.832
+        }, 
+        {
+            "dp": 0.884, 
+            "dprime": "4.746ms", 
+            "mem": 1, 
+            "source": "a35", 
+            "target": "a56", 
+            "weight": 0.134
+        }, 
+        {
+            "dp": 0.822, 
+            "dprime": "4.34ms", 
+            "mem": 1, 
+            "source": "a34", 
+            "target": "a54", 
+            "weight": 0.293
+        }, 
+        {
+            "dp": 0.871, 
+            "dprime": "5.695ms", 
+            "mem": 1, 
+            "source": "a39", 
+            "target": "a51", 
+            "weight": 0.226
+        }, 
+        {
+            "dp": 0.956, 
+            "dprime": "6.438ms", 
+            "mem": 1, 
+            "source": "a39", 
+            "target": "a64", 
+            "weight": 0.546
+        }, 
+        {
+            "dp": 0.844, 
+            "dprime": "5.405ms", 
+            "mem": 1, 
+            "source": "a39", 
+            "target": "a22", 
+            "weight": 0.29
+        }, 
+        {
+            "dp": 0.793, 
+            "dprime": "4.605ms", 
+            "mem": 1, 
+            "source": "a38", 
+            "target": "a31", 
+            "weight": 0.365
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "344.816ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a38", 
+            "target": "a16", 
+            "weight": 0.095
+        }, 
+        {
+            "dp": 0.982, 
+            "dprime": "9.868ms", 
+            "mem": 1, 
+            "source": "a46", 
+            "target": "a9", 
+            "weight": 0.277
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "60.866ms", 
+            "mem": 1, 
+            "source": "a47", 
+            "target": "a40", 
+            "weight": 0.113
+        }, 
+        {
+            "dp": 0.846, 
+            "dprime": "4.707ms", 
+            "mem": 1, 
+            "source": "a44", 
+            "target": "a78", 
+            "weight": 0.172
+        }, 
+        {
+            "dp": 0.891, 
+            "dprime": "4.717ms", 
+            "mem": 1, 
+            "source": "a44", 
+            "target": "a49", 
+            "weight": 0.352
+        }, 
+        {
+            "dp": 0.72, 
+            "dprime": "5.025ms", 
+            "mem": 1, 
+            "source": "a45", 
+            "target": "a42", 
+            "weight": 0.272
+        }, 
+        {
+            "dp": 0.821, 
+            "dprime": "5.782ms", 
+            "mem": 1, 
+            "source": "a42", 
+            "target": "a82", 
+            "weight": 0.592
+        }, 
+        {
+            "dp": 0.933, 
+            "dprime": "6.022ms", 
+            "mem": 1, 
+            "source": "a42", 
+            "target": "a90", 
+            "weight": 0.835
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "94.985ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a43", 
+            "target": "a19", 
+            "weight": 0.07
+        }, 
+        {
+            "dp": 0.818, 
+            "dprime": "4.767ms", 
+            "mem": 1, 
+            "source": "a40", 
+            "target": "a2", 
+            "weight": 0.673
+        }, 
+        {
+            "dp": 0.907, 
+            "dprime": "6.443ms", 
+            "mem": 1, 
+            "source": "a41", 
+            "target": "a30", 
+            "weight": 0.99
+        }, 
+        {
+            "dp": 0.794, 
+            "dprime": "4.472ms", 
+            "mem": 1, 
+            "source": "a41", 
+            "target": "a79", 
+            "weight": 0.125
+        }, 
+        {
+            "dp": 0.857, 
+            "dprime": "4.732ms", 
+            "mem": 1, 
+            "source": "a48", 
+            "target": "a76", 
+            "weight": 0.668
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "260.476ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a49", 
+            "target": "a82", 
+            "weight": 0.069
+        }, 
+        {
+            "dp": 0.784, 
+            "dprime": "4.874ms", 
+            "mem": 1, 
+            "source": "a49", 
+            "target": "a97", 
+            "weight": 0.189
+        }, 
+        {
+            "dp": 0.949, 
+            "dprime": "7.53ms", 
+            "mem": 1, 
+            "source": "a49", 
+            "target": "a61", 
+            "weight": 0.37
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "574.352ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a20", 
+            "target": "a16", 
+            "weight": 0.067
+        }, 
+        {
+            "dp": 0.736, 
+            "dprime": "5.212ms", 
+            "mem": 1, 
+            "source": "a21", 
+            "target": "a20", 
+            "weight": 0.268
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "88.155ms", 
+            "mem": 1, 
+            "source": "a21", 
+            "target": "a65", 
+            "weight": 0.809
+        }, 
+        {
+            "dp": 0.772, 
+            "dprime": "5.335ms", 
+            "mem": 1, 
+            "source": "a22", 
+            "target": "a50", 
+            "weight": 0.243
+        }, 
+        {
+            "dp": 0.863, 
+            "dprime": "5.228ms", 
+            "mem": 1, 
+            "source": "a22", 
+            "target": "a43", 
+            "weight": 0.614
+        }, 
+        {
+            "dp": 0.938, 
+            "dprime": "6.051ms", 
+            "mem": 1, 
+            "source": "a22", 
+            "target": "a13", 
+            "weight": 0.54
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "37.859ms", 
+            "mem": 1, 
+            "source": "a23", 
+            "target": "a7", 
+            "weight": 0.494
+        }, 
+        {
+            "dp": 0.672, 
+            "dprime": "4.525ms", 
+            "mem": 1, 
+            "source": "a24", 
+            "target": "a33", 
+            "weight": 0.345
+        }, 
+        {
+            "dp": 0.742, 
+            "dprime": "5.009ms", 
+            "mem": 1, 
+            "source": "a24", 
+            "target": "a7", 
+            "weight": 0.657
+        }, 
+        {
+            "dp": 0.954, 
+            "dprime": "9.112ms", 
+            "mem": 1, 
+            "source": "a25", 
+            "target": "a59", 
+            "weight": 0.677
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "192.899ms", 
+            "mem": 1, 
+            "source": "a25", 
+            "target": "a97", 
+            "weight": 0.176
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "493.044ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a26", 
+            "target": "a55", 
+            "weight": 0.041
+        }, 
+        {
+            "dp": 0.782, 
+            "dprime": "4.514ms", 
+            "mem": 1, 
+            "source": "a27", 
+            "target": "a8", 
+            "weight": 0.827
+        }, 
+        {
+            "dp": 0.884, 
+            "dprime": "6.597ms", 
+            "mem": 1, 
+            "source": "a28", 
+            "target": "a68", 
+            "weight": 0.386
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "56.939ms", 
+            "mem": 1, 
+            "source": "a28", 
+            "target": "a98", 
+            "weight": 0.651
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "218.248ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a29", 
+            "target": "a9", 
+            "weight": 0.076
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "140.61ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a29", 
+            "target": "a42", 
+            "weight": 0.092
+        }, 
+        {
+            "dp": 0.891, 
+            "dprime": "5.156ms", 
+            "mem": 1, 
+            "source": "a29", 
+            "target": "a62", 
+            "weight": 0.82
+        }, 
+        {
+            "dp": 0.777, 
+            "dprime": "4.351ms", 
+            "mem": 1, 
+            "source": "a15", 
+            "target": "a41", 
+            "weight": 0.181
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "62.909ms", 
+            "mem": 1, 
+            "source": "a14", 
+            "target": "a18", 
+            "weight": 0.927
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "299.934ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a17", 
+            "target": "a16", 
+            "weight": 0.082
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "18.506ms", 
+            "mem": 1, 
+            "source": "a16", 
+            "target": "a8", 
+            "weight": 0.382
+        }, 
+        {
+            "dp": 0.827, 
+            "dprime": "4.075ms", 
+            "mem": 1, 
+            "source": "a16", 
+            "target": "a67", 
+            "weight": 0.434
+        }, 
+        {
+            "dp": 0.962, 
+            "dprime": "6.88ms", 
+            "mem": 1, 
+            "source": "a11", 
+            "target": "a35", 
+            "weight": 0.879
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "556.108ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a10", 
+            "target": "a66", 
+            "weight": 0.042
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "567.139ms", 
+            "hasInitialToken": true, 
+            "mem": 2, 
+            "source": "a10", 
+            "target": "a2", 
+            "weight": 0.083
+        }, 
+        {
+            "dp": 0.928, 
+            "dprime": "5.151ms", 
+            "mem": 1, 
+            "source": "a10", 
+            "target": "a26", 
+            "weight": 0.118
+        }, 
+        {
+            "dp": 0.907, 
+            "dprime": "6.062ms", 
+            "mem": 1, 
+            "source": "a13", 
+            "target": "a75", 
+            "weight": 0.401
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "106.602ms", 
+            "mem": 1, 
+            "source": "a12", 
+            "target": "a53", 
+            "weight": 0.969
+        }, 
+        {
+            "dp": 0.931, 
+            "dprime": "5.745ms", 
+            "mem": 1, 
+            "source": "a12", 
+            "target": "a18", 
+            "weight": 0.851
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "128.431ms", 
+            "mem": 1, 
+            "source": "a19", 
+            "target": "a9", 
+            "weight": 0.576
+        }, 
+        {
+            "dp": 0.887, 
+            "dprime": "4.74ms", 
+            "mem": 1, 
+            "source": "a19", 
+            "target": "a74", 
+            "weight": 0.934
+        }, 
+        {
+            "dp": 0.947, 
+            "dprime": "6.758ms", 
+            "mem": 1, 
+            "source": "a18", 
+            "target": "a28", 
+            "weight": 0.411
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "266.917ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a18", 
+            "target": "a24", 
+            "weight": 0.025
+        }, 
+        {
+            "dp": 0.987, 
+            "dprime": "9.652ms", 
+            "mem": 1, 
+            "source": "a1", 
+            "target": "a0", 
+            "weight": 0.7
+        }, 
+        {
+            "dp": 0.587, 
+            "dprime": "4.283ms", 
+            "mem": 1, 
+            "source": "a1", 
+            "target": "a44", 
+            "weight": 0.632
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "222.113ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a0", 
+            "target": "a15", 
+            "weight": 0.078
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "443.071ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a0", 
+            "target": "a3", 
+            "weight": 0.037
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "89.086ms", 
+            "mem": 1, 
+            "source": "a0", 
+            "target": "a13", 
+            "weight": 0.927
+        }, 
+        {
+            "dp": 0.909, 
+            "dprime": "5.958ms", 
+            "mem": 1, 
+            "source": "a3", 
+            "target": "a12", 
+            "weight": 0.207
+        }, 
+        {
+            "dp": 0.769, 
+            "dprime": "5.002ms", 
+            "mem": 1, 
+            "source": "a3", 
+            "target": "a6", 
+            "weight": 0.656
+        }, 
+        {
+            "dp": 0.901, 
+            "dprime": "4.932ms", 
+            "mem": 1, 
+            "source": "a2", 
+            "target": "a1", 
+            "weight": 0.745
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "128.27ms", 
+            "mem": 1, 
+            "source": "a5", 
+            "target": "a3", 
+            "weight": 0.383
+        }, 
+        {
+            "dp": 0.894, 
+            "dprime": "5.66ms", 
+            "mem": 1, 
+            "source": "a4", 
+            "target": "a3", 
+            "weight": 0.316
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "238.576ms", 
+            "mem": 1, 
+            "source": "a7", 
+            "target": "a31", 
+            "weight": 0.501
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "14.178ms", 
+            "mem": 1, 
+            "source": "a7", 
+            "target": "a5", 
+            "weight": 0.306
+        }, 
+        {
+            "dp": 0.963, 
+            "dprime": "6.778ms", 
+            "mem": 1, 
+            "source": "a7", 
+            "target": "a25", 
+            "weight": 0.963
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "419.871ms", 
+            "hasInitialToken": true, 
+            "mem": 1, 
+            "source": "a6", 
+            "target": "a14", 
+            "weight": 0.042
+        }, 
+        {
+            "dp": 0.948, 
+            "dprime": "5.436ms", 
+            "mem": 1, 
+            "source": "a6", 
+            "target": "a11", 
+            "weight": 0.234
+        }, 
+        {
+            "dp": 0.739, 
+            "dprime": "5.352ms", 
+            "mem": 1, 
+            "source": "a6", 
+            "target": "a87", 
+            "weight": 0.139
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "114.747ms", 
+            "mem": 1, 
+            "source": "a9", 
+            "target": "a1", 
+            "weight": 0.79
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "78.937ms", 
+            "mem": 1, 
+            "source": "a8", 
+            "target": "a32", 
+            "weight": 0.661
+        }, 
+        {
+            "dp": 0.972, 
+            "dprime": "8.627ms", 
+            "mem": 1, 
+            "source": "a8", 
+            "target": "a66", 
+            "weight": 0.398
+        }, 
+        {
+            "dp": 0.886, 
+            "dprime": "5.575ms", 
+            "mem": 1, 
+            "source": "a8", 
+            "target": "a4", 
+            "weight": 0.216
+        }, 
+        {
+            "dp": 0.721, 
+            "dprime": "4.891ms", 
+            "mem": 1, 
+            "source": "a8", 
+            "target": "a40", 
+            "weight": 0.318
+        }
+    ], 
+    "executionOrder": [
+        "a19", 
+        "a74", 
+        "a63", 
+        "a45", 
+        "a42", 
+        "a90", 
+        "a82", 
+        "a71", 
+        "a58", 
+        "a88", 
+        "a46", 
+        "a9", 
+        "a15", 
+        "a41", 
+        "a79", 
+        "a24", 
+        "a33", 
+        "a48", 
+        "a76", 
+        "a86", 
+        "a80", 
+        "a47", 
+        "a30", 
+        "a57", 
+        "a93", 
+        "a96", 
+        "a21", 
+        "a65", 
+        "a55", 
+        "a27", 
+        "a14", 
+        "a16", 
+        "a67", 
+        "a92", 
+        "a8", 
+        "a40", 
+        "a2", 
+        "a1", 
+        "a44", 
+        "a49", 
+        "a61", 
+        "a69", 
+        "a0", 
+        "a4", 
+        "a66", 
+        "a20", 
+        "a52", 
+        "a36", 
+        "a23", 
+        "a7", 
+        "a25", 
+        "a97", 
+        "a38", 
+        "a31", 
+        "a89", 
+        "a17", 
+        "a39", 
+        "a22", 
+        "a13", 
+        "a43", 
+        "a64", 
+        "a51", 
+        "a59", 
+        "a70", 
+        "a10", 
+        "a26", 
+        "a77", 
+        "a5", 
+        "a3", 
+        "a6", 
+        "a87", 
+        "a11", 
+        "a35", 
+        "a56", 
+        "a12", 
+        "a18", 
+        "a28", 
+        "a68", 
+        "a98", 
+        "a53", 
+        "a85", 
+        "a95", 
+        "a78", 
+        "a32", 
+        "a34", 
+        "a54", 
+        "a91", 
+        "a37", 
+        "a81", 
+        "a75", 
+        "a94", 
+        "a99", 
+        "a50", 
+        "a84", 
+        "a29", 
+        "a62", 
+        "a83", 
+        "a72", 
+        "a73", 
+        "a60"
+    ], 
+    "latencies": {
+        "(a19,a17)": "376.226ms", 
+        "(a19,a20)": "101.808ms", 
+        "(a19,a26)": "182.337ms", 
+        "(a19,a37)": "361.784ms", 
+        "(a19,a43)": "391.093ms", 
+        "(a19,a53)": "392.383ms", 
+        "(a19,a56)": "321.885ms", 
+        "(a19,a62)": "421.418ms", 
+        "(a19,a72)": "300.959ms", 
+        "(a19,a75)": "407.978ms", 
+        "(a19,a84)": "407.155ms", 
+        "(a19,a91)": "362.138ms", 
+        "(a19,a94)": "406.373ms", 
+        "(a19,a99)": "42.584ms", 
+        "(a52,a17)": "376.226ms", 
+        "(a52,a20)": "101.808ms", 
+        "(a52,a26)": "182.337ms", 
+        "(a52,a37)": "361.784ms", 
+        "(a52,a43)": "391.093ms", 
+        "(a52,a53)": "392.383ms", 
+        "(a52,a56)": "321.885ms", 
+        "(a52,a62)": "421.418ms", 
+        "(a52,a72)": "300.959ms", 
+        "(a52,a75)": "407.978ms", 
+        "(a52,a84)": "407.155ms", 
+        "(a52,a91)": "362.138ms", 
+        "(a52,a94)": "406.373ms", 
+        "(a52,a99)": "42.584ms", 
+        "(a60,a17)": "376.226ms", 
+        "(a60,a20)": "101.808ms", 
+        "(a60,a26)": "182.337ms", 
+        "(a60,a37)": "361.784ms", 
+        "(a60,a43)": "391.093ms", 
+        "(a60,a53)": "392.383ms", 
+        "(a60,a56)": "321.885ms", 
+        "(a60,a62)": "421.418ms", 
+        "(a60,a72)": "300.959ms", 
+        "(a60,a75)": "407.978ms", 
+        "(a60,a84)": "407.155ms", 
+        "(a60,a91)": "362.138ms", 
+        "(a60,a94)": "406.373ms", 
+        "(a60,a99)": "42.584ms", 
+        "(a73,a17)": "376.226ms", 
+        "(a73,a20)": "101.808ms", 
+        "(a73,a26)": "182.337ms", 
+        "(a73,a37)": "361.784ms", 
+        "(a73,a43)": "391.093ms", 
+        "(a73,a53)": "392.383ms", 
+        "(a73,a56)": "321.885ms", 
+        "(a73,a62)": "421.418ms", 
+        "(a73,a72)": "300.959ms", 
+        "(a73,a75)": "407.978ms", 
+        "(a73,a84)": "407.155ms", 
+        "(a73,a91)": "362.138ms", 
+        "(a73,a94)": "406.373ms", 
+        "(a73,a99)": "42.584ms", 
+        "(a83,a17)": "376.226ms", 
+        "(a83,a20)": "101.808ms", 
+        "(a83,a26)": "182.337ms", 
+        "(a83,a37)": "361.784ms", 
+        "(a83,a43)": "391.093ms", 
+        "(a83,a53)": "392.383ms", 
+        "(a83,a56)": "321.885ms", 
+        "(a83,a62)": "421.418ms", 
+        "(a83,a72)": "300.959ms", 
+        "(a83,a75)": "407.978ms", 
+        "(a83,a84)": "407.155ms", 
+        "(a83,a91)": "362.138ms", 
+        "(a83,a94)": "406.373ms", 
+        "(a83,a99)": "42.584ms", 
+        "(a85,a17)": "376.226ms", 
+        "(a85,a20)": "101.808ms", 
+        "(a85,a26)": "182.337ms", 
+        "(a85,a37)": "361.784ms", 
+        "(a85,a43)": "391.093ms", 
+        "(a85,a53)": "392.383ms", 
+        "(a85,a56)": "321.885ms", 
+        "(a85,a62)": "421.418ms", 
+        "(a85,a72)": "300.959ms", 
+        "(a85,a75)": "407.978ms", 
+        "(a85,a84)": "407.155ms", 
+        "(a85,a91)": "362.138ms", 
+        "(a85,a94)": "406.373ms", 
+        "(a85,a99)": "42.584ms"
+    }, 
+    "period": "486.078ms"
+}

@@ -1,0 +1,20 @@
+<internetCloud symmetric="false">
+  <parameters name="good">
+    <traffic src="h[0]" dest="h[1]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[2]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[3]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[4]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[5]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[6]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[7]" delay="gamma_d(2.0,1.0ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[0]" dest="h[8]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[1]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[2]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[3]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[4]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[5]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[6]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[7]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />
+    <traffic src="h[8]" dest="h[9]" delay="gamma_d(3.0,1.5ms)" datarate="5Mbps" drop="uniform(0,1) &lt; 0.01" />    
+  </parameters>
+</internetCloud>
