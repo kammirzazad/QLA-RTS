@@ -1,0 +1,132 @@
+{
+    "h0": {
+        "h1": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h2": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h3": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h4": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h5": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h6": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h7": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }, 
+        "h8": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.0, 
+            "shape": 2.0, 
+            "u": 0.01
+        }
+    },
+    "h1": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h2": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h3": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h4": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h5": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h6": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h7": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    },
+    "h8": { 
+	"h9": {
+            "dist": "gamma", 
+            "loc": 0, 
+            "scale": 1.5, 
+            "shape": 3.0, 
+            "u": 0.01
+	}
+    }
+}
