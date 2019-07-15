@@ -1,0 +1,182 @@
+{
+    "actors": [
+        {
+            "host": "h0", 
+            "name": "a0", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h1", 
+            "name": "a1", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h2", 
+            "name": "a2", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h3", 
+            "name": "a3", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h4", 
+            "name": "a4", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h5", 
+            "name": "a5", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h6", 
+            "name": "a6", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h7", 
+            "name": "a7", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h8", 
+            "name": "a8", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h9", 
+            "name": "a9", 
+            "wcet": "10.0ms"
+        }
+    ], 
+    "channels": [
+        {
+            "source": "a3", 
+            "weight": 0.296
+        }, 
+        {
+            "source": "a7", 
+            "weight": 0.412
+        }, 
+        {
+            "source": "a6", 
+            "weight": 0.94
+        }, 
+        {
+            "source": "a8", 
+            "weight": 0.866
+        }, 
+        {
+            "source": "i0", 
+            "target": "a4", 
+            "weight": 0.655
+        }, 
+        {
+            "source": "a1", 
+            "target": "a0", 
+            "weight": 0.157
+        }, 
+        {
+            "source": "a0", 
+            "target": "a3", 
+            "weight": 0.643
+        }, 
+        {
+            "source": "a0", 
+            "target": "a5", 
+            "weight": 0.505
+        }, 
+        {
+            "source": "a0", 
+            "target": "a6", 
+            "weight": 0.773
+        }, 
+        {
+            "source": "a2", 
+            "target": "a1", 
+            "weight": 0.519
+        }, 
+        {
+            "source": "a5", 
+            "target": "a9", 
+            "weight": 0.428
+        }, 
+        {
+            "source": "a5", 
+            "target": "a8", 
+            "weight": 0.327
+        }, 
+        {
+            "source": "a4", 
+            "target": "a2", 
+            "weight": 0.183
+        }, 
+        {
+            "source": "a9", 
+            "target": "a7", 
+            "weight": 0.181
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a0", 
+            "target": "a0", 
+            "weight": 0.065
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a1", 
+            "target": "a1", 
+            "weight": 0.082
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a2", 
+            "target": "a2", 
+            "weight": 0.064
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a3", 
+            "target": "a3", 
+            "weight": 0.08
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a4", 
+            "weight": 0.1
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a5", 
+            "target": "a5", 
+            "weight": 0.025
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a6", 
+            "target": "a6", 
+            "weight": 0.067
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a7", 
+            "target": "a7", 
+            "weight": 0.068
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a8", 
+            "target": "a8", 
+            "weight": 0.042
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a9", 
+            "target": "a9", 
+            "weight": 0.036
+        }
+    ]
+}

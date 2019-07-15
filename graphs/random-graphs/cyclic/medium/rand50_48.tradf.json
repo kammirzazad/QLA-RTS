@@ -1,0 +1,1089 @@
+{
+    "actors": [
+        {
+            "host": "h0", 
+            "name": "a0", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h1", 
+            "name": "a1", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h2", 
+            "name": "a2", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h3", 
+            "name": "a3", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h4", 
+            "name": "a4", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h5", 
+            "name": "a5", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h6", 
+            "name": "a6", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h7", 
+            "name": "a7", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h8", 
+            "name": "a8", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h9", 
+            "name": "a9", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h10", 
+            "name": "a10", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h11", 
+            "name": "a11", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h12", 
+            "name": "a12", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h13", 
+            "name": "a13", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h14", 
+            "name": "a14", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h15", 
+            "name": "a15", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h16", 
+            "name": "a16", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h17", 
+            "name": "a17", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h18", 
+            "name": "a18", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h19", 
+            "name": "a19", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h20", 
+            "name": "a20", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h21", 
+            "name": "a21", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h22", 
+            "name": "a22", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h23", 
+            "name": "a23", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h24", 
+            "name": "a24", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h25", 
+            "name": "a25", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h26", 
+            "name": "a26", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h27", 
+            "name": "a27", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h28", 
+            "name": "a28", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h29", 
+            "name": "a29", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h30", 
+            "name": "a30", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h31", 
+            "name": "a31", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h32", 
+            "name": "a32", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h33", 
+            "name": "a33", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h34", 
+            "name": "a34", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h35", 
+            "name": "a35", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h36", 
+            "name": "a36", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h37", 
+            "name": "a37", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h38", 
+            "name": "a38", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h39", 
+            "name": "a39", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h40", 
+            "name": "a40", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h41", 
+            "name": "a41", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h42", 
+            "name": "a42", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h43", 
+            "name": "a43", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h44", 
+            "name": "a44", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h45", 
+            "name": "a45", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h46", 
+            "name": "a46", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h47", 
+            "name": "a47", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h48", 
+            "name": "a48", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h49", 
+            "name": "a49", 
+            "wcet": "10.0ms"
+        }
+    ], 
+    "channels": [
+        {
+            "source": "a24", 
+            "weight": 0.625
+        }, 
+        {
+            "source": "a25", 
+            "weight": 0.602
+        }, 
+        {
+            "source": "a26", 
+            "weight": 0.3
+        }, 
+        {
+            "source": "a29", 
+            "weight": 0.839
+        }, 
+        {
+            "source": "a31", 
+            "weight": 0.306
+        }, 
+        {
+            "source": "a38", 
+            "weight": 0.776
+        }, 
+        {
+            "source": "a1", 
+            "weight": 0.897
+        }, 
+        {
+            "source": "a47", 
+            "weight": 0.817
+        }, 
+        {
+            "source": "i0", 
+            "target": "a22", 
+            "weight": 0.449
+        }, 
+        {
+            "source": "i1", 
+            "target": "a9", 
+            "weight": 0.54
+        }, 
+        {
+            "source": "i2", 
+            "target": "a41", 
+            "weight": 0.137
+        }, 
+        {
+            "source": "a2", 
+            "target": "a0", 
+            "weight": 0.758
+        }, 
+        {
+            "source": "a3", 
+            "target": "a1", 
+            "weight": 0.284
+        }, 
+        {
+            "source": "a0", 
+            "target": "a4", 
+            "weight": 0.266
+        }, 
+        {
+            "source": "a5", 
+            "target": "a2", 
+            "weight": 0.421
+        }, 
+        {
+            "source": "a5", 
+            "target": "a7", 
+            "weight": 0.952
+        }, 
+        {
+            "source": "a9", 
+            "target": "a5", 
+            "weight": 0.211
+        }, 
+        {
+            "source": "a10", 
+            "target": "a3", 
+            "weight": 0.199
+        }, 
+        {
+            "source": "a11", 
+            "target": "a3", 
+            "weight": 0.713
+        }, 
+        {
+            "source": "a12", 
+            "target": "a8", 
+            "weight": 0.649
+        }, 
+        {
+            "source": "a13", 
+            "target": "a8", 
+            "weight": 0.31
+        }, 
+        {
+            "source": "a14", 
+            "target": "a10", 
+            "weight": 0.145
+        }, 
+        {
+            "source": "a15", 
+            "target": "a6", 
+            "weight": 0.537
+        }, 
+        {
+            "source": "a16", 
+            "target": "a13", 
+            "weight": 0.727
+        }, 
+        {
+            "source": "a17", 
+            "target": "a12", 
+            "weight": 0.707
+        }, 
+        {
+            "source": "a18", 
+            "target": "a15", 
+            "weight": 0.349
+        }, 
+        {
+            "source": "a19", 
+            "target": "a18", 
+            "weight": 0.131
+        }, 
+        {
+            "source": "a21", 
+            "target": "a19", 
+            "weight": 0.173
+        }, 
+        {
+            "source": "a7", 
+            "target": "a24", 
+            "weight": 0.279
+        }, 
+        {
+            "source": "a27", 
+            "target": "a16", 
+            "weight": 0.493
+        }, 
+        {
+            "source": "a10", 
+            "target": "a28", 
+            "weight": 0.332
+        }, 
+        {
+            "source": "a32", 
+            "target": "a30", 
+            "weight": 0.45
+        }, 
+        {
+            "source": "a18", 
+            "target": "a33", 
+            "weight": 0.225
+        }, 
+        {
+            "source": "a21", 
+            "target": "a34", 
+            "weight": 0.305
+        }, 
+        {
+            "source": "a35", 
+            "target": "a23", 
+            "weight": 0.217
+        }, 
+        {
+            "source": "a36", 
+            "target": "a29", 
+            "weight": 0.609
+        }, 
+        {
+            "source": "a20", 
+            "target": "a37", 
+            "weight": 0.745
+        }, 
+        {
+            "source": "a19", 
+            "target": "a39", 
+            "weight": 0.476
+        }, 
+        {
+            "source": "a22", 
+            "target": "a42", 
+            "weight": 0.406
+        }, 
+        {
+            "source": "a43", 
+            "target": "a14", 
+            "weight": 0.712
+        }, 
+        {
+            "source": "a44", 
+            "target": "a16", 
+            "weight": 0.979
+        }, 
+        {
+            "source": "a45", 
+            "target": "a43", 
+            "weight": 0.433
+        }, 
+        {
+            "source": "a34", 
+            "target": "a48", 
+            "weight": 0.432
+        }, 
+        {
+            "source": "a49", 
+            "target": "a29", 
+            "weight": 0.671
+        }, 
+        {
+            "source": "a37", 
+            "target": "a26", 
+            "weight": 0.222
+        }, 
+        {
+            "source": "a4", 
+            "target": "a38", 
+            "weight": 0.371
+        }, 
+        {
+            "source": "a33", 
+            "target": "a17", 
+            "weight": 0.95
+        }, 
+        {
+            "source": "a45", 
+            "target": "a21", 
+            "weight": 0.44
+        }, 
+        {
+            "source": "a41", 
+            "target": "a40", 
+            "weight": 0.299
+        }, 
+        {
+            "source": "a42", 
+            "target": "a32", 
+            "weight": 0.24
+        }, 
+        {
+            "source": "a17", 
+            "target": "a44", 
+            "weight": 0.122
+        }, 
+        {
+            "source": "a41", 
+            "target": "a44", 
+            "weight": 0.615
+        }, 
+        {
+            "source": "a40", 
+            "target": "a35", 
+            "weight": 0.125
+        }, 
+        {
+            "source": "a33", 
+            "target": "a14", 
+            "weight": 0.964
+        }, 
+        {
+            "source": "a19", 
+            "target": "a49", 
+            "weight": 0.102
+        }, 
+        {
+            "source": "a8", 
+            "target": "a26", 
+            "weight": 0.948
+        }, 
+        {
+            "source": "a17", 
+            "target": "a47", 
+            "weight": 0.332
+        }, 
+        {
+            "source": "a48", 
+            "target": "a20", 
+            "weight": 0.993
+        }, 
+        {
+            "source": "a45", 
+            "target": "a25", 
+            "weight": 0.383
+        }, 
+        {
+            "source": "a3", 
+            "target": "a46", 
+            "weight": 0.9
+        }, 
+        {
+            "source": "a42", 
+            "target": "a45", 
+            "weight": 0.809
+        }, 
+        {
+            "source": "a23", 
+            "target": "a42", 
+            "weight": 0.283
+        }, 
+        {
+            "source": "a49", 
+            "target": "a7", 
+            "weight": 0.181
+        }, 
+        {
+            "source": "a27", 
+            "target": "a5", 
+            "weight": 0.307
+        }, 
+        {
+            "source": "a28", 
+            "target": "a26", 
+            "weight": 0.305
+        }, 
+        {
+            "source": "a27", 
+            "target": "a47", 
+            "weight": 0.267
+        }, 
+        {
+            "source": "a42", 
+            "target": "a33", 
+            "weight": 0.144
+        }, 
+        {
+            "source": "a22", 
+            "target": "a31", 
+            "weight": 0.43
+        }, 
+        {
+            "source": "a22", 
+            "target": "a17", 
+            "weight": 0.612
+        }, 
+        {
+            "source": "a41", 
+            "target": "a27", 
+            "weight": 0.744
+        }, 
+        {
+            "source": "a33", 
+            "target": "a32", 
+            "weight": 0.851
+        }, 
+        {
+            "source": "a6", 
+            "target": "a49", 
+            "weight": 0.602
+        }, 
+        {
+            "source": "a30", 
+            "target": "a13", 
+            "weight": 0.856
+        }, 
+        {
+            "source": "a39", 
+            "target": "a13", 
+            "weight": 0.415
+        }, 
+        {
+            "source": "a16", 
+            "target": "a11", 
+            "weight": 0.446
+        }, 
+        {
+            "source": "a46", 
+            "target": "a36", 
+            "weight": 0.961
+        }, 
+        {
+            "source": "a21", 
+            "target": "a48", 
+            "weight": 0.925
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a0", 
+            "target": "a1", 
+            "weight": 0.016
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a6", 
+            "weight": 0.098
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a1", 
+            "target": "a8", 
+            "weight": 0.011
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a16", 
+            "target": "a20", 
+            "weight": 0.077
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a21", 
+            "target": "a22", 
+            "weight": 0.039
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a5", 
+            "target": "a23", 
+            "weight": 0.06
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a25", 
+            "target": "a13", 
+            "weight": 0.084
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a26", 
+            "target": "a9", 
+            "weight": 0.081
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a29", 
+            "target": "a22", 
+            "weight": 0.051
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a26", 
+            "target": "a30", 
+            "weight": 0.058
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a31", 
+            "target": "a14", 
+            "weight": 0.024
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a38", 
+            "target": "a25", 
+            "weight": 0.039
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a15", 
+            "target": "a40", 
+            "weight": 0.052
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a36", 
+            "target": "a41", 
+            "weight": 0.022
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a24", 
+            "target": "a46", 
+            "weight": 0.074
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a47", 
+            "target": "a18", 
+            "weight": 0.051
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a26", 
+            "target": "a22", 
+            "weight": 0.079
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a28", 
+            "target": "a11", 
+            "weight": 0.061
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a49", 
+            "target": "a10", 
+            "weight": 0.072
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a46", 
+            "target": "a27", 
+            "weight": 0.07
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a25", 
+            "target": "a27", 
+            "weight": 0.051
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a46", 
+            "target": "a32", 
+            "weight": 0.017
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a36", 
+            "target": "a27", 
+            "weight": 0.034
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a38", 
+            "target": "a47", 
+            "weight": 0.097
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a37", 
+            "target": "a32", 
+            "weight": 0.064
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a31", 
+            "weight": 0.019
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a0", 
+            "target": "a0", 
+            "weight": 0.026
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a1", 
+            "target": "a1", 
+            "weight": 0.02
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a2", 
+            "target": "a2", 
+            "weight": 0.054
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a3", 
+            "target": "a3", 
+            "weight": 0.057
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a4", 
+            "weight": 0.065
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a5", 
+            "target": "a5", 
+            "weight": 0.01
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a6", 
+            "target": "a6", 
+            "weight": 0.056
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a7", 
+            "target": "a7", 
+            "weight": 0.065
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a8", 
+            "target": "a8", 
+            "weight": 0.025
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a9", 
+            "target": "a9", 
+            "weight": 0.082
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a10", 
+            "target": "a10", 
+            "weight": 0.069
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a11", 
+            "target": "a11", 
+            "weight": 0.04
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a12", 
+            "target": "a12", 
+            "weight": 0.077
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a13", 
+            "target": "a13", 
+            "weight": 0.068
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a14", 
+            "target": "a14", 
+            "weight": 0.034
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a15", 
+            "target": "a15", 
+            "weight": 0.034
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a16", 
+            "target": "a16", 
+            "weight": 0.09
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a17", 
+            "target": "a17", 
+            "weight": 0.093
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a18", 
+            "target": "a18", 
+            "weight": 0.019
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a19", 
+            "target": "a19", 
+            "weight": 0.045
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a20", 
+            "target": "a20", 
+            "weight": 0.089
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a21", 
+            "target": "a21", 
+            "weight": 0.015
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a22", 
+            "target": "a22", 
+            "weight": 0.054
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a23", 
+            "target": "a23", 
+            "weight": 0.034
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a24", 
+            "target": "a24", 
+            "weight": 0.069
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a25", 
+            "target": "a25", 
+            "weight": 0.06
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a26", 
+            "target": "a26", 
+            "weight": 0.079
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a27", 
+            "target": "a27", 
+            "weight": 0.043
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a28", 
+            "target": "a28", 
+            "weight": 0.047
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a29", 
+            "target": "a29", 
+            "weight": 0.021
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a30", 
+            "target": "a30", 
+            "weight": 0.095
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a31", 
+            "target": "a31", 
+            "weight": 0.013
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a32", 
+            "target": "a32", 
+            "weight": 0.043
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a33", 
+            "target": "a33", 
+            "weight": 0.04
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a34", 
+            "target": "a34", 
+            "weight": 0.015
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a35", 
+            "target": "a35", 
+            "weight": 0.073
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a36", 
+            "target": "a36", 
+            "weight": 0.057
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a37", 
+            "target": "a37", 
+            "weight": 0.026
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a38", 
+            "target": "a38", 
+            "weight": 0.023
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a39", 
+            "target": "a39", 
+            "weight": 0.076
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a40", 
+            "target": "a40", 
+            "weight": 0.073
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a41", 
+            "target": "a41", 
+            "weight": 0.055
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a42", 
+            "target": "a42", 
+            "weight": 0.061
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a43", 
+            "target": "a43", 
+            "weight": 0.02
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a44", 
+            "target": "a44", 
+            "weight": 0.077
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a45", 
+            "target": "a45", 
+            "weight": 0.024
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a46", 
+            "target": "a46", 
+            "weight": 0.065
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a47", 
+            "target": "a47", 
+            "weight": 0.088
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a48", 
+            "target": "a48", 
+            "weight": 0.034
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a49", 
+            "target": "a49", 
+            "weight": 0.01
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "actors": [
+        {
+            "host": "h0", 
+            "name": "a0", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h1", 
+            "name": "a1", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h2", 
+            "name": "a2", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h3", 
+            "name": "a3", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h4", 
+            "name": "a4", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h5", 
+            "name": "a5", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h6", 
+            "name": "a6", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h7", 
+            "name": "a7", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h8", 
+            "name": "a8", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h9", 
+            "name": "a9", 
+            "wcet": "10.0ms"
+        }
+    ], 
+    "channels": [
+        {
+            "source": "a2", 
+            "weight": 0.995
+        }, 
+        {
+            "source": "a6", 
+            "weight": 0.87
+        }, 
+        {
+            "source": "i0", 
+            "target": "a5", 
+            "weight": 0.799
+        }, 
+        {
+            "source": "a1", 
+            "target": "a0", 
+            "weight": 0.653
+        }, 
+        {
+            "source": "a1", 
+            "target": "a2", 
+            "weight": 0.88
+        }, 
+        {
+            "source": "a3", 
+            "target": "a1", 
+            "weight": 0.18
+        }, 
+        {
+            "source": "a5", 
+            "target": "a0", 
+            "weight": 0.317
+        }, 
+        {
+            "source": "a7", 
+            "target": "a3", 
+            "weight": 0.173
+        }, 
+        {
+            "source": "a5", 
+            "target": "a8", 
+            "weight": 0.637
+        }, 
+        {
+            "source": "a9", 
+            "target": "a4", 
+            "weight": 0.546
+        }, 
+        {
+            "source": "a8", 
+            "target": "a7", 
+            "weight": 0.244
+        }, 
+        {
+            "source": "a5", 
+            "target": "a3", 
+            "weight": 0.514
+        }, 
+        {
+            "source": "a4", 
+            "target": "a2", 
+            "weight": 0.832
+        }, 
+        {
+            "source": "a3", 
+            "target": "a9", 
+            "weight": 0.973
+        }, 
+        {
+            "source": "a7", 
+            "target": "a1", 
+            "weight": 0.389
+        }, 
+        {
+            "source": "a0", 
+            "target": "a6", 
+            "weight": 0.103
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a2", 
+            "target": "a6", 
+            "weight": 0.061
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a5", 
+            "weight": 0.035
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a6", 
+            "target": "a7", 
+            "weight": 0.067
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a0", 
+            "target": "a0", 
+            "weight": 0.069
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a1", 
+            "target": "a1", 
+            "weight": 0.02
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a2", 
+            "target": "a2", 
+            "weight": 0.044
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a3", 
+            "target": "a3", 
+            "weight": 0.045
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a4", 
+            "target": "a4", 
+            "weight": 0.013
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a5", 
+            "target": "a5", 
+            "weight": 0.026
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a6", 
+            "target": "a6", 
+            "weight": 0.082
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a7", 
+            "target": "a7", 
+            "weight": 0.039
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a8", 
+            "target": "a8", 
+            "weight": 0.07
+        }, 
+        {
+            "hasInitialToken": true, 
+            "source": "a9", 
+            "target": "a9", 
+            "weight": 0.01
+        }
+    ]
+}
