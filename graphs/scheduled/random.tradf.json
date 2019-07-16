@@ -1,0 +1,194 @@
+{
+    "actors": [
+        {
+            "host": "h1", 
+            "name": "a1", 
+            "ts": "50.672ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h0", 
+            "name": "a0", 
+            "ts": "69.178ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h3", 
+            "name": "a3", 
+            "ts": "57.329ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h2", 
+            "name": "a2", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h5", 
+            "name": "a5", 
+            "ts": "34.6ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h4", 
+            "name": "a4", 
+            "ts": "0.0ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h7", 
+            "name": "a7", 
+            "ts": "23.676ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h6", 
+            "name": "a6", 
+            "ts": "46.179ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h9", 
+            "name": "a9", 
+            "ts": "37.722ms", 
+            "wcet": "10.0ms"
+        }, 
+        {
+            "host": "h8", 
+            "name": "a8", 
+            "ts": "11.821ms", 
+            "wcet": "10.0ms"
+        }
+    ], 
+    "channels": [
+        {
+            "source": "a0", 
+            "weight": 0.809
+        }, 
+        {
+            "source": "i0", 
+            "target": "a2", 
+            "weight": 0.746
+        }, 
+        {
+            "source": "i1", 
+            "target": "a4", 
+            "weight": 0.615
+        }, 
+        {
+            "dp": 0.981, 
+            "dprime": "8.507ms", 
+            "mem": 3, 
+            "source": "a1", 
+            "target": "a0", 
+            "weight": 0.743
+        }, 
+        {
+            "dp": 0.219, 
+            "dprime": "1.849ms", 
+            "mem": 2, 
+            "source": "a3", 
+            "target": "a0", 
+            "weight": 0.888
+        }, 
+        {
+            "dp": 0.237, 
+            "dprime": "1.821ms", 
+            "mem": 2, 
+            "source": "a2", 
+            "target": "a8", 
+            "weight": 0.443
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "24.6ms", 
+            "mem": 4, 
+            "source": "a2", 
+            "target": "a5", 
+            "weight": 0.476
+        }, 
+        {
+            "dp": 0.987, 
+            "dprime": "12.729ms", 
+            "mem": 3, 
+            "source": "a5", 
+            "target": "a3", 
+            "weight": 0.151
+        }, 
+        {
+            "dp": 0.171, 
+            "dprime": "1.579ms", 
+            "mem": 2, 
+            "source": "a5", 
+            "target": "a6", 
+            "weight": 0.701
+        }, 
+        {
+            "dp": 0.99, 
+            "dprime": "40.672ms", 
+            "mem": 6, 
+            "source": "a4", 
+            "target": "a1", 
+            "weight": 0.654
+        }, 
+        {
+            "dp": 0.813, 
+            "dprime": "4.046ms", 
+            "mem": 2, 
+            "source": "a7", 
+            "target": "a9", 
+            "weight": 0.388
+        }, 
+        {
+            "dp": 0.081, 
+            "dprime": "0.923ms", 
+            "mem": 2, 
+            "source": "a7", 
+            "target": "a5", 
+            "weight": 0.686
+        }, 
+        {
+            "dp": 0.09, 
+            "dprime": "1.15ms", 
+            "mem": 2, 
+            "source": "a6", 
+            "target": "a3", 
+            "weight": 0.402
+        }, 
+        {
+            "dp": 0.628, 
+            "dprime": "2.949ms", 
+            "mem": 2, 
+            "source": "a9", 
+            "target": "a1", 
+            "weight": 0.349
+        }, 
+        {
+            "dp": 0.244, 
+            "dprime": "1.855ms", 
+            "mem": 2, 
+            "source": "a8", 
+            "target": "a7", 
+            "weight": 0.865
+        }
+    ], 
+    "estimatedSNR": "1.5479389319579102dB", 
+    "executionOrder": [
+        "a4", 
+        "a2", 
+        "a8", 
+        "a7", 
+        "a5", 
+        "a6", 
+        "a3", 
+        "a9", 
+        "a1", 
+        "a0"
+    ], 
+    "latencies": {
+        "(a2,a0)": "79.178ms", 
+        "(a4,a0)": "79.178ms"
+    }, 
+    "period": "10.0ms"
+}
