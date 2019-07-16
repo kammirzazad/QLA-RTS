@@ -24,7 +24,6 @@ import	operator
 import	numpy as np
 import	networkx as nx
 import	scipy.stats as st
-import	matplotlib.pyplot as plt
 
 from 	scipy import optimize
 from    networkx.readwrite import json_graph
