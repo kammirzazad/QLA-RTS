@@ -23,7 +23,7 @@ This folder includes the network specifications used in the paper to schedule th
 This folder includes simulation models for the random graphs and distributed neural network application. They were developed using OMNeT++ simulator 5.3 and INET Framework 3.6.4. To simulate a scheduled random graph, you will need to set _**.graph_ variable in omnetpp.ini to point to it, which has a default value of _scheduled.tradf.json_. Furthermore, to be able to compile the simulation model, you will need to install [json library for C++](https://packages.debian.org/sid/libjsoncpp-dev). Simulation model for distributed neural network has no external dependencies and once compiled, could simulate baseline and optimized schedules for _rho_ values of 0.2, 0.25, 0.4, 0.5, 0.75 and 1.0. Note that you can simulate different configurations by modifying its omnetpp.ini.
 
 # References
-[1] K. Mirzazad, Z. Zhao and A. Gerstlauer, "Quality/Latency-Aware Real-time Scheduling of Distributed Streaming IoT Applications," CODES+ISSS 2019, special issue of ACM Transactions on Embedded Computing Systems (TECS).
+[1] K. Mirzazad, Z. Zhao and A. Gerstlauer, "[Quality/Latency-Aware Real-time Scheduling of Distributed Streaming IoT Applications](http://slam.ece.utexas.edu/pubs/codes19.QLA-RTS.pdf)," CODES+ISSS 2019, special issue of ACM Transactions on Embedded Computing Systems (TECS).
 
 # Contact
 If you have a question about this repository or a problem running scripts/models, you can contact Kamyar at kammirzazad@utexas.edu.
